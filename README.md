@@ -41,16 +41,16 @@
 
 ### **改变世界的发明与工程 (World-Changing Inventions & Engineering)**
 
-31. **伦敦“大恶臭”事件**：1858年伦敦的泰晤士河臭气熏天，如何催生了现代城市下水道系统的诞生。
-32. **在沙漠中建造胡佛大坝**：在大萧条时期，成千上万的工人如何在极其艰苦的条件下，建成了这座“沙漠中的奇迹”。
-33. **“协和”超音速客机**：工程师们如何让一架民航飞机飞得比子弹还快，从伦敦到纽约只需3个半小时。
-34. **GPS的诞生**：最初为军事用途设计的全球定位系统，如何改变了我们每个人的生活。
-35. **互联网的第一个“单词”**：1969年，第一台计算机试图向另一台发送“LOGIN”，但只成功发出了“LO”两个字母就崩溃了。
-36. **巴拿马运河的“水楼梯”**：工程师们如何巧妙地利用船闸系统，让巨大的轮船“爬”过山脉。
-37. **从海底连接世界**：工人们如何铺设横跨大西洋的海底电缆，第一次将欧洲和美洲用电报连接起来。
-38. **乐高积木的“完美”精度**：一块小小的塑料积木，是如何做到拥有微米级的制造精度，让每一块都能完美拼接。
-39. **“蓝色巨人”的国际象棋之战**：IBM的超级计算机“深蓝”，如何首次战胜了人类国际象棋世界冠军。
-40. **维可牢尼龙搭扣的灵感**：一位瑞士工程师在遛狗后，如何从粘在狗毛上的苍耳中，发明了魔术贴。
+31. [**伦敦“大恶臭”事件**](./bedtime_story_scripts/31_The_Great_Stink_of_London.md)：1858年伦敦的泰晤士河臭气熏天，如何催生了现代城市下水道系统的诞生。
+32. [**在沙漠中建造胡佛大坝**](./bedtime_story_scripts/32_Building_the_Hoover_Dam_in_the_Desert.md)：在大萧条时期，成千上万的工人如何在极其艰苦的条件下，建成了这座“沙漠中的奇迹”。
+33. [**“协和”超音速客机**](./bedtime_story_scripts/33_The_Concorde_Supersonic_Airliner.md)：工程师们如何让一架民航飞机飞得比子弹还快，从伦敦到纽约只需3个半小时。
+34. [**GPS的诞生**](./bedtime_story_scripts/34_The_Birth_of_GPS.md)：最初为军事用途设计的全球定位系统，如何改变了我们每个人的生活。
+35. [**互联网的第一个“单词”**](./bedtime_story_scripts/35_The_First_Word_on_the_Internet.md)：1969年，第一台计算机试图向另一台发送“LOGIN”，但只成功发出了“LO”两个字母就崩溃了。
+36. [**巴拿马运河的“水楼梯”**](./bedtime_story_scripts/36_The_Panama_Canal_s_Water_Staircase.md)：工程师们如何巧妙地利用船闸系统，让巨大的轮船“爬”过山脉。
+37. [**从海底连接世界**](./bedtime_story_scripts/37_Connecting_the_World_from_the_Seabed.md)：工人们如何铺设横跨大西洋的海底电缆，第一次将欧洲和美洲用电报连接起来。
+38. [**乐高积木的“完美”精度**](./bedtime_story_scripts/38_The_Perfect_Precision_of_LEGO_Bricks.md)：一块小小的塑料积木，是如何做到拥有微米级的制造精度，让每一块都能完美拼接。
+39. [**“蓝色巨人”的国际象棋之战**](./bedtime_story_scripts/39_The_Blue_Giant_s_Chess_Battle.md)：IBM的超级计算机“深蓝”，如何首次战胜了人类国际象棋世界冠军。
+40. [**维可牢尼龙搭扣的灵感**](./bedtime_story_scripts/40_The_Inspiration_for_Velcro.md)：一位瑞士工程师在遛狗后，如何从粘在狗毛上的苍耳中，发明了魔术贴。
 
 ### **了不起的动物伙伴 (Incredible Animal Companions)**
 
